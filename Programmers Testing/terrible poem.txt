@@ -2,3 +2,5 @@ Roses are red,
 Violets are violet,
 My favourite place in the world,
 Is the toilet.
+
+The newt is cute
